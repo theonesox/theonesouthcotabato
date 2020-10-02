@@ -3,17 +3,25 @@ body{
 	background-image: url("https://thumbs.gfycat.com/DistinctScrawnyCicada-small.gif");	
 }
 
-header{
-	background-color: #d2d2d2;
-	}
-
-header{
-	color: white;
+.header{
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
 }
 
+	.Name{
+	background: url('https://scontent.fmnl4-1.fna.fbcdn.net/v/t1.15752-9/120347873_3437560622987285_8600203316327044279_n.png?_nc_cat=104&_nc_sid=ae9488&_nc_eui2=AeHuVY8Hm2ma8HeFtFMH7SzFailSTEOWCOJqKVJMQ5YI4rEmkQXNiMVFT9hfgOq7XMEvOATpsQKCzVexkYqQEWOu&_nc_ohc=lj_uTqpCCGwAX_sQ74P&_nc_ht=scontent.fmnl4-1.fna&oh=04e000dcf85c5a4f7e470e40ff844a47&oe=5F9D2D74') 0 0 no-repeat;
+	height: auto;
+	width: auto;	
+}
+.Logo{
+	background: url('https://scontent.fcgy1-1.fna.fbcdn.net/v/t1.15752-0/p206x206/120373540_685049962113424_7325499563392039084_n.png?_nc_cat=110&_nc_sid=ae9488&_nc_eui2=AeGumLvWz25jQtDcyjbzRK58fulOWR5zZ_V-6U5ZHnNn9bfnNXGZAdB-w-B1bBmgdj0PYCEraLtLurdZgH1Uv1T7&_nc_ohc=9F9vzscF1XMAX9OgN2Z&_nc_ht=scontent.fcgy1-1.fna&oh=cac13e59d5ef5d9b870fac8f740a27c0&oe=5F9CB916') 0 0 no-repeat;
+}
 h1 img{
-	border-radius: 200%;
-	width: 300px;
-	object-fit: cover;
-	height: 300px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 20%;
+	height: 20%;
 }
